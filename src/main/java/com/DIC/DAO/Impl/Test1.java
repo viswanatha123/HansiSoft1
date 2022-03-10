@@ -6,5 +6,8 @@ public class Test1 {
 	{
 		System.out.println("welcome to India");
 	}
+	{
+		System.out.println("welcome to India");
+	}
 
 }
