@@ -1,12 +1,10 @@
 package beans;
 
-public class Demo1 {
+public class Demo4 {
 	
-	public void dis1()
+	public void dis()
 	{
 		System.out.println("welcome to India ");
 	}
-
-	
 
 }
