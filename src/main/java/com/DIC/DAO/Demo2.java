@@ -9,5 +9,10 @@ public class Demo2 {
 		System.out.println("welcome to india");
 	}
 	
+	public void visu2()
+
+	{
+		System.out.println("welcome to india");
+	}
 
 }
