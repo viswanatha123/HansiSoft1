@@ -17,5 +17,9 @@ public class demo1 {
 		System.out.println("welcome to India");
 	}
 
+	public void dis4()
+	{
+		System.out.println("welcome to India");
+	}
 
 }
