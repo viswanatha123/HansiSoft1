@@ -6,5 +6,10 @@ public class demo1 {
 	{
 		System.out.println("welcome to India");
 	}
+	
+	public void dis2()
+	{
+		System.out.println("welcome to India");
+	}
 
 }
